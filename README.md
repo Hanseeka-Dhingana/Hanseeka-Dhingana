@@ -63,15 +63,14 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-%23121011?style=flat&logo=pinecone&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=chainlink&logoColor=white)
 
-
-# 📈 My GitHub History!:  
+<!-- # 📈 My GitHub History!:  
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Hanseeka-Dhingana&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
 <img src =  "https://nirzak-streak-stats.vercel.app/?user=Hanseeka-Dhingana&theme=dark&hide_border=false"/><br/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseeka-Dhingana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>      
 
 [![](https://visitcount.itsvg.in/api?id=Hanseeka-Dhingana&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+</p> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanseeka-Dhingana/Hanseeka-Dhingana/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanseeka-Dhingana/Hanseeka-Dhingana/output/github-snake.svg" />
